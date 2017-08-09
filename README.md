@@ -1,2 +1,2 @@
-# Devops
-this is for testing purpose
+# class_notes
+this are Radical class notes 
